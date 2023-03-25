@@ -1,0 +1,18 @@
+.notesDiv{
+    margin-top: 30px;
+}
+
+.notesDiv ul{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.notesDiv li{
+    border: solid black 2px;
+    border-radius: 10px;
+    margin: auto;
+    width: 70vh;
+    margin-top: 20px;
+}

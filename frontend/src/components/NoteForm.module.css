@@ -1,0 +1,22 @@
+.mainDiv{
+    border: solid black 2px;
+    border-radius: 10px;
+    width: 60vh;
+    margin-top: 20px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 68vh;
+}
+.mainDiv input{
+    margin: 10px;
+    padding: 10px;
+}
+.mainDiv button{
+    width: 150px;
+    height: 30px;
+    margin-top: 20px;
+}
